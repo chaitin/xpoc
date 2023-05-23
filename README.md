@@ -13,7 +13,7 @@
     <a href="https://github.com/chaitin/xpoc/releases">
         <img alt="GitHub release" src="https://img.shields.io/github/release/chaitin/xpoc.svg?style=for-the-badge">
     </a>
-   
+
 </p>
 
 <p align="center">简洁的命令行工具，快速发现安全问题</p>
@@ -48,3 +48,26 @@ flowchart
     class go,yaml,a,b,aa,ab,bb,aaa,aab,aac,aaaa,aaab,aaac,aaad,aaae,aaaf x;
 ```
 
+## 一键安装
+
+windows:
+
+```
+
+```
+
+linux:
+
+```
+
+```
+
+mac:
+
+```
+
+```
+
+## 执行扫描
+
+xpoc -t http://testtest.fun
