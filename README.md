@@ -29,9 +29,9 @@
 
 **在使用之前，请务必阅读并同意 [License](./LICENSE.md) 文件中的条款，否则请勿安装使用本工具。**
 
-1. 拉取所有云端POC并扫描指定目标
+1. 扫描指定目标
 
-   - `./xpoc -t https://example.com -html result.html`
+   - `./xpoc -t https://example.com -o result.html`
 
 2. 查看所有云端的POC
 
@@ -42,6 +42,16 @@
    - `./xpoc < targets.txt`
    - ` cat targets.txt | ./xpoc`
    - `./xpoc -i targets.txt`
+
+4. 同步最新插件
+
+   首次启动会自动进行一次全量同步
+   
+    - `./xpoc pull`
+
+5. 更新到最新版本
+
+    -  `./xpoc upgrade`
 
 ## 🪟 特点
 
