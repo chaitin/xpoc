@@ -176,7 +176,7 @@ xray的进步离不开各位师傅的支持，秉持着互助共建的精神，�
 
 如有问题可以在 GitHub 提 issue, 也可在下方的讨论组里
 
-1. GitHub issue: https://github.com/chaitin/xray/issues
+1. GitHub issue: https://github.com/chaitin/xpoc/issues
 
 2. 微信公众号：微信扫描以下二维码，关注我们
 
