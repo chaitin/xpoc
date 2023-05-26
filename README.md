@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="assert/xpoc-logo.svg" alt="xpoc" width="200px">
+	<img src="https://docs.xray.cool/assets/xpoc/xpoc-logo.svg" alt="xpoc" width="200px">
 	<br>
 </h1>
 
@@ -23,7 +23,7 @@
 
 ---
 
-<img src="assert/eme.gif" />
+<img src="https://docs.xray.cool/assets/eme.gif" />
 
 ## 🚀 快速使用
 
