@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://docs.xray.cool/assets/xpoc/xpoc-logo.svg" alt="xpoc" width="200px">
+	<img src="image/xpoc-logo.svg" alt="xpoc" width="200px">
 	<br>
 </h1>
 
@@ -18,12 +18,10 @@
   <a href="#-安装使用">使用</a> •
   <a href="#-贡献-poc">贡献</a> •
   <a href="https://github.com/chaitin/xpoc/releases">下载</a> •
-  <a href="https://docs.xray.cool/xpoc">使用文档</a> 
+  <a href="https://docs.xray.cool/tools/xpoc/QuickStart">使用文档</a> 
 </p>
 
 ---
-
-<img src="https://docs.xray.cool/assets/eme.gif" />
 
 ## 🚀 快速使用
 
@@ -46,12 +44,12 @@
 4. 同步最新插件
 
    首次启动会自动进行一次全量同步
-   
-    - `./xpoc pull`
+
+   - `./xpoc pull`
 
 5. 更新到最新版本
 
-    -  `./xpoc upgrade`
+   -  `./xpoc upgrade`
 
 ## 🪟 特点
 
@@ -120,12 +118,12 @@ GLOBAL OPTIONS:
 
 ## ⚡️ 进阶
 
-下列高级用法请查看 https://docs.xray.cool/ 使用。
+下列高级用法请查看 https://docs.xray.cool/tools/xpoc/QuickStart 使用。
 
- - 修改配置文件
- - go插件编写（施工中）
- - 反连平台的使用
- - ...
+- 修改配置文件
+- go插件编写（施工中）
+- 反连平台的使用
+- ...
 
 ## 😘 贡献 POC
 
@@ -190,7 +188,7 @@ xray的进步离不开各位师傅的支持，秉持着互助共建的精神，�
 
 2. 微信公众号：微信扫描以下二维码，关注我们
 
-<img src="https://docs.xray.cool/assets/wechat.jpg?cache=_none" height="200px">
+    <img src="image/wechat.jpg" height="200px">
 
 3. 微信群: 请添加微信公众号并点击“联系我们" -> "加群“，然后扫描二维码加群
 
